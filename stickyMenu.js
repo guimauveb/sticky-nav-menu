@@ -117,8 +117,5 @@ var stickyMenu = {};
             stickyMenu.switchStickyClass();
         }
     }
-
-
-
 }).apply(stickyMenu);
 
